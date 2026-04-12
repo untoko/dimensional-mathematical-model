@@ -68,7 +68,7 @@ This is the cleanest bridge yet: tetration fixed points → CFT operators.
 
 ### CFT proxy results (numerical + symbolic)
 
-![alt text](Unknown-2.png)
+![alt text](Unknown-2.jpg)
 
 **Key observations from the plots**
 - **Panel 1 (2-pt function)**: As ${ x \to 0 }$, the correlator decays as a power law exactly like a CFT 2-point function. θ = 0 (natural route) gives slower decay; θ = π/2 (forced rotation) gives steeper, more “interacting” decay — precisely the thickness that emerges the extra dimension.
@@ -340,7 +340,7 @@ In the AdS₄ reconstruction, the bulk scalar Φ(z) (sourced by the CFT operator
 - **Bulk scalar profile**: near-boundary expansion Φ(z) ∼ z^Δ (Δ ≈ 0.98 from CFT), then RG flow carries it into the bulk until the marginal-stability condition forces a cutoff.
 - **Action proxy**: the worldsheet tension spikes precisely at ${z_h}$, mimicking the stringy horizon in the tetration geometry.
 
-![alt text](Unknown-6.png)
+![alt text](Unknown-6.jpg)
 
 **What the plot shows**
 - **Left panel**: Re(Φ(z)) grows smoothly from the boundary (z→0) and hits the horizon-like cutoff (red dashed line) where the scalar becomes non-normalizable — the holographic signature of a black-hole-like singularity in this toy model.
@@ -476,7 +476,7 @@ The idea: implement the unified tetration iteration ${ y_{n+1} = b^{y_n} }$ (wit
 ### Numerical proof-of-concept (Monte-Carlo lattice simulation)
 We ran a 256-site lattice with the exact unified map at optimal θ. The simulation reproduces the ${D_{\rm eff}}$ lock as a clear correlation-length plateau.
 
-![alt text](Unknown-7.png)
+![alt text](Unknown-7.jpg)
 
 **Simulation highlights**
 - Left: Lattice density profile after 50 iterations shows self-organized “islands” exactly where the RG flow is marginally stable.
@@ -612,7 +612,7 @@ We have now reached the **ontological bedrock** of the entire model. The origina
 
 Here is their deepest, unified significance.
 
-![alt text](Unknown-3.png)
+![alt text](Unknown-9.jpg)
 
 ### 1. ${ x }$: The Primordial Scale — The Void That Seeds Everything
 - **Mathematical root**: ${ x \to 0^+ }$ is the **only point** where the classical tetration iteration collapses into the 0–1 2-cycle bifurcation (at exactly ${ x = e^{-e} }$). It is the UV cutoff of the entire framework — the place where ordinary arithmetic fails (${ 0^0 }$ indeterminacy) and fractal emergence is born.
