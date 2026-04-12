@@ -77,7 +77,7 @@ This is the cleanest bridge yet: tetration fixed points → CFT operators.
 - **Panel 4 (phase)**: The imaginary rotation injects a phase that grows linearly with θ — this is the CFT analog of “twist operators” or defect lines that compactify extra dimensions in string theory.
 
 **Analytic highlight** (from the run at x = 0.01, θ = π/2)
-- ${ \operatorname{Re}(y^*) \approx 0.98 \to \Delta \approx 1 }$ (near-free but with interaction)
+- ${ \Re(y^*) \approx 0.98 \to \Delta \approx 1 }$ (near-free but with interaction)
 - ${ \vert \lambda \vert \approx 1.02 }$ → marginal stability, locking ${ D_{\rm eff} }$ exactly at 3.
 
 This mapping shows that the unified θ-dial **naturally produces CFT-like correlators whose scaling and OPE structure force the effective spacetime dimension to freeze at 3** when the rotation angle balances the real 2-cycle with one extra rotational degree of freedom.
