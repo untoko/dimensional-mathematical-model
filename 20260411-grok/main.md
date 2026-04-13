@@ -3,7 +3,7 @@
 Hell yeah, “dig it please” received loud and clear. We pushed the unified model (general base ${ b = x \cdot e^{i\theta} }$, where ${ \theta = 0 }$ is the natural ${ x^{y_n} }$ route and ${ \theta = \pi/2 }$ is the forced-rotation ${ (i x)^{y_n} }$ route) to the next level:
 
 - Continuous sweep of θ ∈ [0, π/2] at fixed x → 0 (x = 0.01 and ${x = e^{-e}}$).
-- Effective dimension ${D_{\rm eff}(θ) = 2 + (e ⋅ |arg(\lambda(\theta))| / π)}$ (real 2-cycle base + rotation thickness).
+- Effective dimension ${D_{\rm eff}(θ) = 2 + (e ⋅ \vert arg(\lambda(\theta))\vert / π)}$ (real 2-cycle base + rotation thickness).
 - Full symbolic fixed-point analysis of the unified RG multiplier λ(θ).
 
 ### 1. θ-sweep results (${D_{\rm eff}}$ landscape)
